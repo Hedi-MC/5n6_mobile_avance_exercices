@@ -1,1 +1,0 @@
-Exercises pour le cours de programmation APP MOBILES AVANCÉES

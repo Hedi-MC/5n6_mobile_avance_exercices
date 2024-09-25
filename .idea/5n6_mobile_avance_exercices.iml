@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/liste_nav/simple_nav/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/liste_nav/simple_nav/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/liste_nav/simple_nav/build" />
+      <excludeFolder url="file://$MODULE_DIR$/s1_intro/s1e1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/s1_intro/s1e1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/s1_intro/s1e1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e2/s2e2_plein_de_containers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e2/s2e2_plein_de_containers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_layout/s2e2/s2e2_plein_de_containers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_liste/s2e1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_liste/s2e1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/s2_liste/s2e1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/s5_organisation/organisation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/s5_organisation/organisation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/s5_organisation/organisation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_nav/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_nav/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_nav/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
